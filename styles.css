@@ -201,6 +201,7 @@ h1 {
 
 .transform a,
 .standout-section a {
+  cursor: pointer;
   position: relative;
   text-transform: uppercase;
   color: var(--very-dark-desaturated-blue);
