@@ -395,7 +395,11 @@ footer {
   color: var(--dark-moderate-cyan);
   font-family: var(--barlow-font);
 }
-
+.contact:hover{
+  cursor: pointer;
+  color: var(--container-bg);
+  background-color: var(--very-drak-grayish-blue);
+}
 
 @media screen and (min-width: 767px) {
   
